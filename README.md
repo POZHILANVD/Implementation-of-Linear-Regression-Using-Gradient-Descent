@@ -56,6 +56,7 @@ print(f"Predicted Value:{pre}")
 ```
 ## Output:
 ![1](https://github.com/POZHILANVD/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/144870498/4dd0e997-6f45-43c7-bcf9-6dd9f97aec8a)
+
 ![2](https://github.com/POZHILANVD/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/144870498/bc40bc45-454f-4fbd-908f-0337cb95beb2)
 ![3](https://github.com/POZHILANVD/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/144870498/20a1d598-778c-4ea8-96a0-78a46f6b654e)
 ![4](https://github.com/POZHILANVD/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/144870498/25d3eccd-e27c-407c-9895-f366418cfb24)
